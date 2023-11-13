@@ -1,0 +1,25 @@
+.Menu{
+    color: aliceblue;
+    padding: 15px;
+    display:inline-block;
+    text-decoration: none;
+    margin-bottom: 0.5vw;
+    padding-bottom: 0.5vw;
+    padding-top: -5vw;
+    
+    
+}
+.brand{
+    font-size: 18px;
+    font-weight: 600;
+}
+.header{
+    background: linear-gradient(90deg,#ff7300 , #ffbe81);    
+
+}
+.footer{
+    
+    background: linear-gradient(90deg,#ff7300 , #ffbe81);     
+    text-align: center;
+    
+}
